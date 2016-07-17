@@ -1,0 +1,14 @@
+**.classpath
+**.project
+*.settings/org.eclipse.jdt.core.prefs
+**/node/**
+**/node_modules/**
+**/target-grunt/**
+*/target
+.metadata/*
+.metadata/
+RemoteSystemsTempFiles/*
+RemoteSystemsTempFiles/
+*~
+**.idea*
+**.iml
